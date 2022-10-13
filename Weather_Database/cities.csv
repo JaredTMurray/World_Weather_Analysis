@@ -1,0 +1,12 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Cockburn Town,TC,21.4612,-71.1419,84.16,61,40,10.36,scattered clouds
+1,Gat,IL,31.61,34.7642,72.28,65,28,4.23,scattered clouds
+2,Parvatsar,IN,26.8833,74.7667,72.09,49,0,6.08,clear sky
+3,Punta Arenas,CL,-53.15,-70.9167,46.51,57,20,18.41,few clouds
+4,Saint George,US,37.1041,-113.5841,89.44,13,0,4.0,clear sky
+5,Toronto,CA,43.7001,-79.4163,54.32,67,0,18.41,clear sky
+6,Toronto,CA,43.7001,-79.4163,54.32,67,0,18.41,clear sky
+7,Mucurapo,TT,10.6667,-61.5333,80.96,84,61,8.01,broken clouds
+8,Belle Glade,US,26.6845,-80.6676,77.02,83,100,9.69,light rain
+9,Santiago De Cuba,CU,20.0247,-75.8219,82.51,78,40,6.91,scattered clouds
+10,Kidal,ML,18.4411,1.4078,87.13,12,7,9.93,clear sky
