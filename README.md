@@ -8,4 +8,4 @@ The following information was retrieved from the API call
 - Percent cloudiness
 - Wind speed
 - Weather description (for example, clouds, fog, light rain, clear sky)
-This can be viewed in the file [Weather_Database in 7 out 7](#)
+This can be viewed in the file [Weather_Database.ipynb in 7 out 7](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
