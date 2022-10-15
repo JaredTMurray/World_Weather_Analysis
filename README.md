@@ -29,7 +29,7 @@ I have used the date from WeatherPy_Database.csv to create city_data Dataframe. 
 _heat_layer = gmaps.heatmap_layer(locations, weights=max_temp,dissipating=False, max_intensity=300, point_radius=4)_
 _marker_layer = gmaps.marker_layer(locations, info_box_content=hotel_info)_
 
-The following image genertated from the Vacation_Search illustrate the heat layer, the marker layer and the information content box for hotels located in New York State
+The following image genertated from the [Vacaction_Search](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb) illustrate the heat layer, the marker layer and the information content box for hotels located in US
 
 ![](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%202.png)
 
