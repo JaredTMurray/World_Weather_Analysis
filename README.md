@@ -8,6 +8,7 @@ The following information was retrieved from the API call
 - Percent cloudiness
 - Wind speed
 - Weather description (for example, clouds, fog, light rain, clear sky)
-This can be viewed in the file [Weather_Database.ipynb in 7 out 7](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
+I used the city_data variable is an emplty list the would hold the infomation. A For loop was use to retrived the weather information. This can be viewed in the file [Weather_Database.ipynb in 7 out 7](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
 
-A lis of the resorder columne was done placing country as the second column. The imaage below illustrates the reordered column. 
+This image below shows the city_ data first 5 rows
+![](#)
