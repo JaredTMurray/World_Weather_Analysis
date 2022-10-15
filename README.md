@@ -39,3 +39,5 @@ To resolve and create the travel itinerary i imparted the config file through (I
 - 1st city is Palmer
 - 2nd city is Bethel
 - 3rd city is WestBury
+The mode of transportation was Driving, whixh is highlighted with the blue line se image
+!{}()
