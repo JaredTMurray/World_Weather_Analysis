@@ -41,4 +41,4 @@ To resolve and create the travel itinerary I impporteded the config file through
 - 3rd city is WestBury,Nassua
 The mode of transportation was Driving, to get from one city to another. the image below show the route
 
-![](#)
+![](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%203b.png)
