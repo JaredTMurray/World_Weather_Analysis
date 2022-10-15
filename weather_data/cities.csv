@@ -1,1 +1,2 @@
-City_ID
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+0,Saint George,37.1041,-113.5841,68.79,40,0,0,US,2022-10-06 15:30:28
