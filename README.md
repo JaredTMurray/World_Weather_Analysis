@@ -30,4 +30,8 @@ _heat_layer = gmaps.heatmap_layer(locations, weights=max_temp,dissipating=False,
 _marker_layer = gmaps.marker_layer(locations, info_box_content=hotel_info)_
 
 The following image genertated from the Vacation_Search illustrate the heat layer, the marker layer and the information content box for hotels located in New York State
-![](#)
+
+![](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%202.png)
+
+### Deliverable 3: Create a Travel Itinerary Map 
+
