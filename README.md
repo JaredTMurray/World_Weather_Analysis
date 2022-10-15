@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 ## Module 6
-### Deliverable 1 
+### Deliverable 1: Retrieve Weather Data  
 The following information was retrieved from the API call
 - Latitude and longitude
 - Maximum temperature
@@ -27,5 +27,4 @@ Please Click on [Vacaction_Search](https://github.com/JaredTMurray/World_Weather
 I have used the date from WeatherPy_Database.csv to create city_data Dataframe. I then prompt the user to enter the minimum and maximum temperature criteria. This I enter -10 to 80. I then clean up the data by using dropna function to create clean_travel_cities.df dataframe. I added a new column for the Hotel name and also set up my G-Key to access map and locations for the hotels. To highlight the map I add makers and info box 
 
 _heat_layer = gmaps.heatmap_layer(locations, weights=max_temp,dissipating=False, max_intensity=300, point_radius=4)_
- 
 _marker_layer = gmaps.marker_layer(locations, info_box_content=hotel_info)_
