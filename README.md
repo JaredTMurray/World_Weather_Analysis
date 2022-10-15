@@ -35,10 +35,10 @@ The following image genertated from the [Vacaction_Search](https://github.com/Ja
 
 ### Deliverable 3: Create a Travel Itinerary Map 
 To resolve and create the travel itinerary I impporteded the config file through (Import API key, from config import g_key). I create a marker layer map with a pop-up marker for each city on the itinerary. The cities on the itinerary are 
-- Start and End city are Broome
-- 1st city is Palmer
-- 2nd city is Bethel
-- 3rd city is WestBury,Nassua
+- Start and End city are Broome, Marker E
+- 1st city is Palmer, Marker B
+- 2nd city is Bethel, Marker C
+- 3rd city is WestBury,Nassua, Marker D
 
 The mode of transportation was Driving, to get from one city to another. The image below show the code use to set the navagiation from one city to another 
 
@@ -47,5 +47,6 @@ The mode of transportation was Driving, to get from one city to another. The ima
 To map of the driving to each city 
 ![](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%203.png)
 
+The image below shows the pop up box for the locations
 
 ![](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%203c.png)
