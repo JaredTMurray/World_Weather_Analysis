@@ -34,7 +34,7 @@ The following image genertated from the [Vacaction_Search](https://github.com/Ja
 ![](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%202.png)
 
 ### Deliverable 3: Create a Travel Itinerary Map 
-To resolve and create the travel itinerary I impporteded the config file through (Import API key, from config import g_key). I create a marker layer map with a pop-up marker for each city on the itinerary. To view the details code click on [Vacation_Itinerary](#). The cities on the itinerary are 
+To resolve and create the travel itinerary I impporteded the config file through (Import API key, from config import g_key). I create a marker layer map with a pop-up marker for each city on the itinerary. To view the details code click on [Vacation_Itinerary](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb). The cities on the itinerary are 
 - Start and End city are Broome, Marker E
 - 1st city is Palmer, Marker B
 - 2nd city is Bethel, Marker C
