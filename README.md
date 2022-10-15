@@ -11,7 +11,7 @@ The following information was retrieved from the API call
 I used the city_data variable is an emplty list the would hold the infomation. A For loop was use to retrived the weather information. This can be viewed in the file [Weather_Database.ipynb in 7 out 7](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
 The columns were reorder to have country as the second colums.
 This image 1 below shows the city_ data first 5 rows
-![Image 1]([#](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%201%20cities.png))
+![Image 1](https://github.com/JaredTMurray/World_Weather_Analysis/blob/main/weather_data/Deliverable%201%20cities.png)
 
 ### Deliverable 2: Create a Customer Travel Destinations Map 
 In this deliverable I did the following
