@@ -15,14 +15,11 @@ This image 1 below shows the city_ data first 5 rows
 
 ### Deliverable 2: Create a Customer Travel Destinations Map 
 In this deliverable I did the following
-- Add the weather data to a DataFrame 
-      -  I use the city_data list to create a new pandas DataFrame by passing city_data_df = pd.DataFrame(city_data). Image 1 above illustrates the dataset 
-
-- Add the config.py file to the .gitignore file
-      - This was done and imposted the from the config file
-- Create input statements
+- Add the weather data to a DataFrame: I use the city_data list to create a new pandas DataFrame by passing city_data_df = pd.DataFrame(city_data). Image 1 above illustrates the dataset 
+- Add the config.py file to the .gitignore file: This was done and imposted the from the config file
+- Create input statements 
 - Filter a DataFrame using the loc method
 - Retrieve hotel data
 - Add data to a pop-up marker
 - Create a marker layer map
-
+Please Click on [Vacaction_Search](#) to view the code
