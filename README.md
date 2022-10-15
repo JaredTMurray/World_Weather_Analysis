@@ -22,4 +22,6 @@ In this deliverable I did the following
 - Retrieve hotel data
 - Add data to a pop-up marker
 - Create a marker layer map
+
 Please Click on [Vacaction_Search](#) to view the code
+I have used the date from WeatherPy_Database.csv to create city_data Dataframe. I then prompt the user to enter the minimum and maximum temperature criteria. this I enter -10 tp 80. 
